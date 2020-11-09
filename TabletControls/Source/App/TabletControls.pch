@@ -1,0 +1,26 @@
+///////////////////////////////////////////////////////////////////////////////
+//
+// COPYRIGHT
+//    Copyright (c) 2008 - 2020 Wacom Co., Ltd.
+//    All rights reserved
+//
+///////////////////////////////////////////////////////////////////////////////
+/*----------------------------------------------------------------------------
+
+NAME
+
+TabletControlsEvents.pch
+
+
+COPYRIGHT
+
+Copyright WACOM Technologies, Inc. 2008
+All rights reserved.
+
+-----------------------------------------------------------------------------*/
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
+
+#import "TabletAEDictionary.h"
