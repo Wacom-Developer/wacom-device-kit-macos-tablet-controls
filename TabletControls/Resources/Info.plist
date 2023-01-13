@@ -19,7 +19,7 @@
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleVersion</key>
-	<string>2.0</string>
+	<string>2.1</string>
 	<key>NSAppleEventsUsageDescription</key>
 	<string>This app uses AppleEvents to communicate with the Tablet Driver.</string>
 	<key>NSMainNibFile</key>
