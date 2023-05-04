@@ -34,7 +34,7 @@ The Driver Interface Request developer documentation has complete API details:
 
 [Driver Request Interface - Reference](https://developer-docs.wacom.com/intuos-cintiq-business-tablets/docs/dri-reference)
 
-[Driver Request Interface - FAQs](https://developer-docs.wacom.com/intuos-cintiq-business-tablets/docs/dri-faqs)
+[Driver Request Interface - FAQs](https://developer-support.wacom.com/hc/en-us/articles/12845119756055)
 
 ## Where to get help
 If you have questions about the sample application or the setup process, please visit our Support page at: https://developer.wacom.com/developer-dashboard/support
